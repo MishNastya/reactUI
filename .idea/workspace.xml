@@ -1,6 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e63cea59-b42e-42d9-87b1-37bbc456a65d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/CreateModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/EditModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/EmployeeDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/EmployeeTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/OrganizationDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/OrganizationTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/OrganizationTable1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/PositionDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/PositionTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/ReportDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/ReportTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/SubdivisionDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/SubdivisionTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/TabPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sendRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sendRrquestFetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department_ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/department_ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qpwuL7tMuypYOfo3QlS8AGTnHH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/VTB_projects" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Курсовая Оля/restful-example/restful-example/RESTfulExample" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\department_ui\src\component" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e63cea59-b42e-42d9-87b1-37bbc456a65d" name="Default Changelist" comment="" />
+      <created>1617790061973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617790061973</updated>
+      <workItem from="1617790063014" duration="17381000" />
+      <workItem from="1618061818833" duration="18216000" />
+      <workItem from="1618318075708" duration="2574000" />
+      <workItem from="1618320670399" duration="7090000" />
+      <workItem from="1618392695539" duration="14564000" />
+      <workItem from="1618565032835" duration="55495000" />
+      <workItem from="1618905205096" duration="42000" />
+      <workItem from="1618926821323" duration="1681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
